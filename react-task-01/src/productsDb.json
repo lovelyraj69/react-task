@@ -1,0 +1,74 @@
+[
+    {
+        "product_name": "Classic White T-Shirt",
+        "sku": "CWT-001",
+        "price": 19.99,
+        "description": "A versatile and comfortable white t-shirt made from 100% organic cotton. Perfect for everyday wear.",
+        "brand": "EcoWear",
+        "product_img": "https://cdn.pixabay.com/photo/2024/02/06/18/10/ai-generated-8557635_1280.jpg"
+    },
+    {
+        "product_name": "Slim Fit Jeans",
+        "sku": "SFJ-002",
+        "price": 49.99,
+        "description": "Stylish slim fit jeans with a slight stretch for extra comfort. Available in multiple washes.",
+        "brand": "Urban Style",
+        "product_img": "https://cdn.pixabay.com/photo/2024/06/10/09/13/ai-generated-8820253_1280.jpg"
+    },
+    {
+        "product_name": "Hooded Sweatshirt",
+        "sku": "HSW-003",
+        "price": 34.99,
+        "description": "A cozy hooded sweatshirt with a soft fleece interior, ideal for cool weather.Available in multiple washes.",
+        "brand": "ChillWear",
+        "product_img": "https://cdn.pixabay.com/photo/2016/11/20/20/02/sweater-1843619_640.jpg"
+    },
+    {
+        "product_name": "Classic Denim Jacket",
+        "sku": "CDJ-004",
+        "price": 59.99,
+        "description": "A timeless denim jacket with a comfortable fit, featuring durable stitching.",
+        "brand": "Heritage Denim",
+        "product_img": "https://cdn.pixabay.com/photo/2017/08/06/06/42/people-2589570_640.jpg"
+    },
+    {
+        "product_name": "Cotton Chinos",
+        "sku": "CCN-005",
+        "price": 39.99,
+        "description": "Smart and casual cotton chinos, available in a range of colors, perfect for any occasion.",
+        "brand": "SmartWear",
+        "product_img": "https://media.istockphoto.com/id/1294103850/photo/pants-isolated-on-white-background-hanged-trousers-chino-pants.jpg?s=612x612&w=0&k=20&c=yf49KZI3ricfche7QKi9sUry5sDHZawmt3Qxgg-ndbk="
+    },
+    {
+        "product_name": "Men's Casual T-Shirt",
+        "sku": "TSHIRT001",
+        "price": 19.99,
+        "description": "A comfortable and stylish casual t-shirt, perfect for everyday wear.",
+        "brand": "FashionHub",
+        "product_img": "https://cdn.pixabay.com/photo/2024/01/20/01/54/ai-generated-8520240_960_720.jpg"
+      },
+      {
+        "product_name": "Women's Skinny Jeans",
+        "sku": "JEANS002",
+        "price": 39.99,
+        "description": "High-quality skinny jeans with a perfect fit, made from durable fabric.",
+        "brand": "DenimStyle",
+        "product_img": "https://media.istockphoto.com/id/501651643/photo/throw-your-head-back-laughing.jpg?s=612x612&w=0&k=20&c=WYDt1YMpW99AJwkAUVrFjls1M6daf1mHkNAl2FfHOqg="
+      },
+      {
+        "product_name": "Unisex Hoodie",
+        "sku": "HOODIE003",
+        "price": 49.99,
+        "description": "A cozy unisex hoodie with a modern design, ideal for all seasons.",
+        "brand": "UrbanWear",
+        "product_img": "https://media.istockphoto.com/id/154960461/photo/red-sweat-shirt-on-white-background.jpg?s=612x612&w=0&k=20&c=qpFaTOu5Bse6HFEFzl0gYpNfTKU-akpmNlDMsIxu1sU="
+      },
+      {
+        "product_name": "Men's Leather Jacket",
+        "sku": "JACKET004",
+        "price": 99.99,
+        "description": "A premium leather jacket that offers both style and comfort, suitable for all occasions.",
+        "brand": "LuxLeather",
+        "product_img": "https://cdn.pixabay.com/photo/2024/08/30/15/07/ai-generated-9009495_640.jpg"
+      }
+]
